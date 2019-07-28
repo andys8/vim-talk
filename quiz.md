@@ -16,10 +16,10 @@ baa
 ^
 ```
 
-* cb
-* rb
-* xb
-* sb
+- cb
+- rb
+- xb
+- sb
 
 ^
 
@@ -41,10 +41,10 @@ aaa bbb ccc
        ^
 ```
 
-* fc
-* /c\<Enter\>
-* Fc
-* tc
+- fc
+- /c\<Enter\>
+- Fc
+- tc
 
 ^
 
@@ -70,10 +70,10 @@ bbb
 
 (2 lines!)
 
-* \<C-v\>jI#\<Esc\>
-* \<C-v\>jR#\<Esc\>
-* \<C-v\>jc#\<Esc\>
-* \<C-v\>jy#
+- \<C-v\>jI#\<Esc\>
+- \<C-v\>jR#\<Esc\>
+- \<C-v\>jc#\<Esc\>
+- \<C-v\>jy#
 
 ^
 

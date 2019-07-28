@@ -4,10 +4,10 @@
 
 ## Editors
 
-* Vim
-* NeoVim
-* Plugins for idea, code and others
-* Browser plugins
+- Vim
+- NeoVim
+- Plugins for idea, code and others
+- Browser plugins
 
 ### Vimrc
 
@@ -19,9 +19,9 @@
 
 <https://vimawesome.com>
 
-* Surround (`ysiW>`)
-* Multiple-Cursors (`<C-n>`)
-* Easy motion (`,,w`)
+- Surround (`ysiW>`)
+- Multiple-Cursors (`<C-n>`)
+- Easy motion (`,,w`)
 
 ## Quiz
 
