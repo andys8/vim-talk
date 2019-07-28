@@ -4,12 +4,14 @@
 
 <https://github.com/andys8/vim-emulation>
 
-## Guide
+## Vimtutor
 
 ```shell
 vimtutor
 :source ~/.vimrc
 ```
+
+## Guide / Blogpost
 
 <https://danielmiessler.com/study/vim>
 
