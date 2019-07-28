@@ -1,5 +1,7 @@
 # Vim
 
+_Reminder:_ Screenkey
+
 ## Basic keybindings
 
 <https://github.com/andys8/vim-emulation>
