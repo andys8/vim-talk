@@ -1,6 +1,17 @@
 # Vim
 
-## Topics
+## Basic keybindings
+
+<https://github.com/andys8/vim-emulation>
+
+## Guide
+
+```shell
+vimtutor
+:source ~/.vimrc
+```
+
+<https://danielmiessler.com/study/vim>
 
 ## Editors
 
@@ -9,15 +20,25 @@
 - Plugins for idea, code and others
 - Browser plugins
 
-### Vimrc
+## Interactive Tutorials
+
+<https://www.openvim.com>
+<http://www.vimgenius.com>
+<https://vim-adventures.com>
+
+## Vimrc
 
 <https://vim-bootstrap.com>
 <https://dougblack.io/words/a-good-vimrc.html>
 <https://vim.fandom.com/wiki/Example_vimrc>
 
-### Plugins
+## Plugins
+
+How to install a plugin
 
 <https://vimawesome.com>
+
+## Plugin Examples
 
 - Surround (`ysiW>`)
 - Multiple-Cursors (`<C-n>`)
