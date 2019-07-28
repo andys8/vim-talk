@@ -7,4 +7,3 @@
 ```shell
 mdp quiz.md
 ```
-

@@ -4,14 +4,14 @@
 
 ---
 
-# Question 1
+## Question 1
 
-```
+```text
 baa
 ^
 ```
 
-```
+```text
 baa
 ^
 ```
@@ -22,46 +22,47 @@ baa
 * sb
 
 ^
-## Solution
+
+## Solution 1
 
 rb
 
 ---
 
-# Question 2
+## Question 2
 
-```
+```text
 aaa bbb ccc
      ^
 ```
 
-```
+```text
 aaa bbb ccc
        ^
 ```
 
 * fc
-* /c<Enter>
+* /c\<Enter\>
 * Fc
 * tc
 
 ^
-## Solution
+
+## Solution 2
 
 tc
 
 ---
 
-# Question 3
+## Question 3
 
-
-```
+```text
 aaa
 ^
 bbb
 ```
 
-```
+```text
 #aa
 ^
 #bb
@@ -69,13 +70,13 @@ bbb
 
 (2 lines!)
 
-* <C-v>jI#<Esc>
-* <C-v>jR#<Esc>
-* <C-v>jc#<Esc>
-* <C-v>jy#
+* \<C-v\>jI#\<Esc\>
+* \<C-v\>jR#\<Esc\>
+* \<C-v\>jc#\<Esc\>
+* \<C-v\>jy#
 
 ^
-## Solution
 
-<C-v>jc#<Esc>
+## Solution 3
 
+\<C-v\>jc#\<Esc\>
