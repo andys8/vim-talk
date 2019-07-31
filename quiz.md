@@ -7,7 +7,7 @@
 ## Question 1
 
 ```text
-baa
+aaa
 ^
 ```
 
