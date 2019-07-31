@@ -17,16 +17,13 @@ vimtutor
 
 <https://danielmiessler.com/study/vim>
 
+## Documentation
+
+<http://vimdoc.sourceforge.net/htmldoc/>
+
 ## Video
 
 <http://derekwyatt.org/vim/tutorials/>
-
-## Editors
-
-- Vim
-- NeoVim
-- Plugins for idea, code and others
-- Browser plugins
 
 ## Interactive Tutorials
 
@@ -48,7 +45,6 @@ vimtutor
 
 <https://vim.fandom.com/wiki/Example_vimrc>
 
-
 ## Plugins
 
 How to install a plugin
@@ -60,6 +56,14 @@ How to install a plugin
 - Surround (`ysiW>`)
 - Multiple-Cursors (`<C-n>`)
 - Easy motion (`,,w`)
+
+## Editors
+
+- Vim
+- NeoVim
+- Plugins for idea, code and others
+- Browser plugins
+
 
 ## Quiz
 
