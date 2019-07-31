@@ -13,9 +13,13 @@ vimtutor
 :source ~/.vimrc
 ```
 
-## Guide / Blogpost
+## Blogpost
 
 <https://danielmiessler.com/study/vim>
+
+## Video
+
+<http://derekwyatt.org/vim/tutorials/>
 
 ## Editors
 
@@ -27,14 +31,23 @@ vimtutor
 ## Interactive Tutorials
 
 <https://www.openvim.com>
+
 <http://www.vimgenius.com>
+
 <https://vim-adventures.com>
+
+<https://www.vimgolf.com>
 
 ## Vimrc
 
 <https://vim-bootstrap.com>
+
+<https://github.com/SpaceVim/SpaceVim>
+
 <https://dougblack.io/words/a-good-vimrc.html>
+
 <https://vim.fandom.com/wiki/Example_vimrc>
+
 
 ## Plugins
 
