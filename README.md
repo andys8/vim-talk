@@ -6,7 +6,6 @@ _Reminder:_ Screenkey
 
 <https://github.com/andys8/vim-emulation>
 
-
 ## Vimtutor
 
 ```shell
@@ -14,21 +13,17 @@ vimtutor
 :source ~/.vimrc
 ```
 
-
 ## Blogpost
 
 <https://danielmiessler.com/study/vim>
-
 
 ## Documentation
 
 <http://vimdoc.sourceforge.net/htmldoc/>
 
-
 ## Video
 
 <http://derekwyatt.org/vim/tutorials/>
-
 
 ## Interactive Tutorials
 
@@ -40,7 +35,6 @@ vimtutor
 
 <https://www.vimgolf.com>
 
-
 ## Vimrc
 
 <https://vim-bootstrap.com>
@@ -51,13 +45,11 @@ vimtutor
 
 <https://vim.fandom.com/wiki/Example_vimrc>
 
-
 ## Plugin Managers
 
 How to install a plugin
 
 <https://github.com/junegunn/vim-plug/>
-
 
 ## Plugins
 
@@ -70,7 +62,6 @@ See `vimrc.local.bundles`
 - Coc (for language servers)
 
 <https://vimawesome.com>
-
 
 ## Editors
 
@@ -88,7 +79,6 @@ See `vimrc.local.bundles`
 <https://vimium.github.io>
 
 <https://github.com/akahuku/wasavi>
-
 
 ## Quiz
 
