@@ -6,6 +6,7 @@ _Reminder:_ Screenkey
 
 <https://github.com/andys8/vim-emulation>
 
+
 ## Vimtutor
 
 ```shell
@@ -13,17 +14,21 @@ vimtutor
 :source ~/.vimrc
 ```
 
+
 ## Blogpost
 
 <https://danielmiessler.com/study/vim>
+
 
 ## Documentation
 
 <http://vimdoc.sourceforge.net/htmldoc/>
 
+
 ## Video
 
 <http://derekwyatt.org/vim/tutorials/>
+
 
 ## Interactive Tutorials
 
@@ -35,6 +40,7 @@ vimtutor
 
 <https://www.vimgolf.com>
 
+
 ## Vimrc
 
 <https://vim-bootstrap.com>
@@ -45,24 +51,43 @@ vimtutor
 
 <https://vim.fandom.com/wiki/Example_vimrc>
 
-## Plugins
+
+## Plugin Managers
 
 How to install a plugin
 
-<https://vimawesome.com>
+<https://github.com/junegunn/vim-plug/>
 
-## Plugin Examples
+
+## Plugins
+
+See `vimrc.local.bundles`
 
 - Surround (`ysiW>`)
 - Multiple-Cursors (`<C-n>`)
 - Easy motion (`,,w`)
+- Ale (linter / fixer)
+- Coc (for language servers)
+
+<https://vimawesome.com>
+
 
 ## Editors
 
 - Vim
 - NeoVim
-- Plugins for idea, code and others
-- Browser plugins
+
+### Extensions for idea, code and others
+
+<https://github.com/JetBrains/ideavim>
+
+<https://github.com/VSCodeVim/Vim>
+
+### Browser plugins
+
+<https://vimium.github.io>
+
+<https://github.com/akahuku/wasavi>
 
 
 ## Quiz
